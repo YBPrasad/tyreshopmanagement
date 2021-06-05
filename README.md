@@ -1,0 +1,2 @@
+# tyreshopmanagement
+pubudutyreshop
